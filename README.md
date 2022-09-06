@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhtar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate PHP developer and Front-End designer from Lagos Nigeria 🇳🇬</h3>
+<h3 align="center">A passionate PHP developer and Front-End designer in Sunderland United Kingdom 🇬🇧</h3>
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
